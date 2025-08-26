@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.py[cod]
+jayesh
+venv
+node_modules
